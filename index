@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For you</title>
     <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIz4qZKTOplGKCIt860B8HP3mTBMZGACNFg&s">
-    <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="mystyles.css">
 </head>
 <body>
     <div class ="textarea">
